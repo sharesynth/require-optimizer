@@ -20,6 +20,8 @@ Example build script build.js:
 
 Example terminal command:
 
+```
 r.js -o build.js
+```
 
 Outputs 'scripts.min.js' to '../js/deploy/'.
