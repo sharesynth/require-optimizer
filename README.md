@@ -4,6 +4,7 @@ Template files for starting a require optimizer project. Install require optimiz
 
 Example build script build.js:
 
+```javascript
 ({
 	baseUrl: '../js',
 	mainConfigFile: '../js/main.js',
@@ -15,6 +16,7 @@ Example build script build.js:
 	},
 	include: 'requireLib'
 });
+```
 
 Example terminal command:
 
