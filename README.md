@@ -18,10 +18,10 @@ Example build script build.js:
 });
 ```
 
-Example terminal command:
+CD into the build folder and run the following terminal command:
 
 ```
 r.js -o build.js
 ```
 
-Outputs 'scripts.min.js' to '../js/deploy/'.
+This build script outputs 'scripts.min.js' inside '../js/deploy/'.

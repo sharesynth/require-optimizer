@@ -5,7 +5,7 @@ define('moduleB', [],
 		ModuleB.prototype = {
 		    constructor: ModuleB,
 		    initVariables: function initVariables() {
-		    	console.log('This is module B');
+		    	console.log('This is module Banana');
 		    }
 	    }
 	    return ModuleB;
